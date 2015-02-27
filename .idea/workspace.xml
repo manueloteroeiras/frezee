@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4d9d993-36de-47f8-965c-5709d78182b9" name="Default" comment="">
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Home.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso1.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso2-Antiacne.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso2-Antiedad.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso2-Demaquillante.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso2-Hidratacion.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso2-Limpieza.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-AntiedadDia.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-AntiedadNoche.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-AntiedadOjos.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-DemaquillanteGrasa.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-DemaquillanteNormal.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-DemaquillanteSensible.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-HidratacionMixtaoGrasa.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-HidratacionNormalaSeca.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-LimpiezaGrasaA.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-LimpiezaGrasaB.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-LimpiezaGrasaC.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-LimpiezaNormal.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso3-LimpiezaSensible.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiacne-rapid-clear-exfoliante.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiacne-rapid-clear-gel-de-limpieza.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiacne-rapid-clear-gel-secativo.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-healthy-defense-crema-de-dia.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-healthy-defense-crema-de-noche.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-healthy-defense-crema-para-ojos.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-rapid-wrinkle-repair-crema-de-dia.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-rapid-wrinkle-repair-crema-de-noche.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Antiedad-rapid-wrinkle-repair-crema-para-ojos.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Demaquillante-grasa-deep-clean-locion.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Demaquillante-grasa-deep-clean-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Demaquillante-normal-night-calming-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Demaquillante-sensible-blue-line-oil-free.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Demaquillante-sensible-blue-line-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-mixta-ultra-light-contorno-de-ojos.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-mixta-ultra-light-noche.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-mixta-ultra-light-piel-mixta-a-grasa.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-normal-ultra-light-contorno-de-ojos.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-normal-ultra-light-noche.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Hidratacion-normal-ultra-light-piel-normal-a-seca.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-barra-de-limpieza-facial.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-energizing-exfoliante.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-energizing-tonico.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-gel-de-limpieza.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-jabon-grapefruit.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-locion-astringente.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-grasa-deep-clean-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-normal-night-calming-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-sensible-blue-line-tonico-sin-alcohol.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Paso4-Limpieza-sensible-blue-line-wipes.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_014_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_020_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_021_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_024_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_063_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_068_sub_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_015_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_016_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_017_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_018_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_019_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\Video_CLIP_SUB_059_small.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\css\bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiacne-rapid-clear-exfoliante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiacne-rapid-clear-gel-de-limpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiacne-rapid-clear-gel-secativo.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-healthy-defense-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-healthy-defense-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-healthy-defense.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-rapid-wrinkle-repair-crema-de-dia.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-rapid-wrinkle-repair-crema-de-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Antiedad-rapid-wrinkle-repair-crema-para-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Demaquillante-grasa-deep-clean-locion.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Demaquillante-grasa-deep-clean-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Demaquillante-normal-night-calming-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Demaquillante-sensible-blue-line-oil-free.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Demaquillante-sensible-blue-line-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-grasa-ultra-light-contorno-de-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-grasa-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-grasa-ultra-light-piel-mixta-a-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-mixta-ultra-light-contorno-de-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-mixta-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-mixta-ultra-light-piel-mixta-a-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-normal-ultra-light-contorno-de-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-normal-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-normal-ultra-light-piel-normal-a-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-seca-ultra-light-contorno-de-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-seca-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Hidratacion-seca-ultra-light-piel-normal-a-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-barra-de-limpieza-facial.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-energizing-exfoliante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-energizing-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-gel-de-limpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-jabon-grapefruit.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-locion-astringente.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-grasa-deep-clean-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-normal-night-calming-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-sensible-blue-line-tonico-sin-alcohol.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Limpieza-sensible-blue-line-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso1.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso2-Antiacne.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso2-necesidad.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso2.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-AntiedadDia.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-AntiedadNoche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-AntiedadOjos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-DemaquillanteGrasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-DemaquillanteNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-DemaquillanteSensible.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-HidratacionGrasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-HidratacionMixta.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-HidratacionNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-HidratacionSeca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-LimpiezaGrasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-LimpiezaNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\Paso3-LimpiezaSensible.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\VerMas.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\antiacne.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\antiedad.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\bt-continuar.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\bt-siguiente.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\bt-volver-al-menu-inicial.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\bt-volver.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\cajaCeleste.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\cajaGris.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\demaquillante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\dia.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\hidratacion.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-BlueLineOilFree.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-RapidClearGelDeLimpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-RapidClearGelSecativo.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-RapidClearGelSecativo1.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-RapidClearGelSecativo2.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-blue-line-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-barra-de-limpieza-facial-jabon-grapfruit.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-barra-de-limpieza-facial.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-energizing-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-exfoliante-energizing.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-gel-de-limpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-locion-astringente.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-locion-demaquillante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-locion.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-deep-clean-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-healthyDefense-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-healthyDefense-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-healthyDefense.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-night-calming-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-rapid-wrinkle-repair-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-rapid-wrinkle-repair-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-rapid-wrinkle-repair.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-ultra-light-piel-mixta-a-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img-ultra-light-piel-normal-a-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img.zip" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\img_blue-line-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\limpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\logo-neutrogena.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\mixta.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\mixtaograsa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\normal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\normalaseca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\paso1-home.jpg" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\paso2-home.jpg" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\paso3-home.jpg" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\productos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\sensible.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-BlueLineOilFree.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-BlueLineWipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-RapidClearExfoliante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-RapidClearGelDeLimpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-RapidClearGelSecativo.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-blue-line-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-barra-de-limpieza-facial.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-energizing-exfoliante.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-energizing-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-gel-de-limpieza.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-jabon-grapefruit.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-locion-astringente.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-locion.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-wipes-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-deep-clean-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-healthyDefense-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-healthyDefense-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-healthyDefense.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-night-calming-wipes.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-rapid-wrinkle-repair-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-rapid-wrinkle-repair-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-rapid-wrinkle-repair.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-contorno-de-ojos-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-contorno-de-ojos-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-contorno-de-ojos-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-contorno-de-ojos.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-noche-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-noche-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-noche-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-noche.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-piel-mixta-a-grasa-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-piel-mixta-a-grasa.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-piel-normal-a-seca-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-piel-normal-a-seca-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit-ultra-light-piel-normal-a-seca.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\tit_blue-line-tonico.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\titulo-paso1.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\video-ch.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\img\video.png" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\index_v1.html" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\js\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="S:\Line64 Repositories\Repositories\neutrogena.brochure2\platforms\android\assets\www\js\startup.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/plugins/jaeger.Html5Video/www/Html5Video.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/plugins/jaeger.Html5Video/www/Html5Video.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" />
+    </list>
+    <ignored path="neutrogena.brochure2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="neutrogena.brochure2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.68653846" vertical-offset="0" max-vertical-offset="833">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="129" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neutrogena.brochure2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neutrogena.brochure2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neutrogena.brochure2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neutrogena.brochure2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neutrogena.brochure2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4d9d993-36de-47f8-965c-5709d78182b9" name="Default" comment="" />
+      <created>1425048628970</created>
+      <updated>1425048628970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="129" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3547655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68653846" vertical-offset="0" max-vertical-offset="833">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
